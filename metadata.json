@@ -1,0 +1,6 @@
+{
+  "name": "Ciclo Café",
+  "description": "An editorial menu planner and visual seat reservation system for India's pioneer bicycle café, offering slow-fermented bakery specials and warm community gather points.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
