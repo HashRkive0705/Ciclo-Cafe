@@ -18,8 +18,8 @@ export default function AdminPage() {
 
   useEffect(() => {
     fetch(
-  "https://script.google.com/macros/s/AKfycbwc4_vHtNBpV9B-1HemSZPv4rAXsDJ5mEdvaO9w9ONGu-FeEXGooLq8ecJhGx9CMiGr-g/exec"
-)
+  "https://script.google.com/macros/s/AKfycbz-c9uBQWikChIHD6SuB19S1gGbKdfMbACyFyMuUBq-PO5tR6hObCoZf4pvuidvmRCP6Q/exec"
+    )
       .then((res) => res.json())
       .then((data) => {
         console.log("Bookings:", data);
